@@ -1,0 +1,21 @@
+{
+  "name": "cr46/coord-transform",
+  "description": "A simple coord transformer with BD,HX",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cr 46",
+      "email": "klshcr@163.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "cr46\\CoordTransform\\": "src/"
+    }
+  }
+}
