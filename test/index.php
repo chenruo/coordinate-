@@ -10,3 +10,4 @@
 require '../src/Coord.php';
 
 echo new \cr46\Coord(116.404, 39.915);
+
